@@ -36,8 +36,13 @@ ul {
   {
     font-family: "Arial";
     color: white;
-    font-size: 160px;
-    text-shadow:5px 5px 10px rgba(92, 90, 90, 0.863);
+    font-size: 150px;
+    padding-top: 270px;
+    text-shadow:5px 5px 10px rgba(206, 100, 100, 0.863);
+  }
+  span
+  {
+      color: red;
   }
   body
   {
@@ -56,8 +61,7 @@ ul {
       font-family: "Arial";
       font-size: 80px;
       color: white;
-      padding-left: 100px;
-      padding-right: 100px;
+      text-align: center;
   }
   a.github
       {
